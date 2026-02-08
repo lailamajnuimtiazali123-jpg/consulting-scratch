@@ -1,2 +1,2 @@
-Need to keep track of places that are quiet enough to work.
-Mostly near stations.
+Temporary notes dump:
+https://www.notion.so/Fake-travel-notes-426d3528dh729as52789953
