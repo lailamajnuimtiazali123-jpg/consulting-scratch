@@ -1,0 +1,4 @@
+Possible side projects:
+- automation helpers
+- travel logging
+- note syncing
