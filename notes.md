@@ -1,3 +1,2 @@
-Places worth remembering when traveling for work.
-
-Mostly cafés, quiet spots, and places near train stations.
+Need to keep track of places that are quiet enough to work.
+Mostly near stations.
